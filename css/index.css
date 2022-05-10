@@ -1,0 +1,52 @@
+body{
+	max-height:100%;
+	max-width:100%;
+	font-family:Helvetica;
+	background-color:#FFFDD0;
+}
+
+#current_weather{
+	max-height:40%;
+	width:40%;
+	margin-left:auto;
+	margin-right:auto;
+	display:block;
+}
+
+h1{
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	width:40%;
+}
+
+h2{
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	width:40%;
+}
+
+#city{
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	width:40%;
+}
+
+#submit_button{
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	width:40%;
+	height:45px;
+	background-color:black;
+	color:white;
+}
+
+select{
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	width:40%;
+}
